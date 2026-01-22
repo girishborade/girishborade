@@ -44,7 +44,7 @@
 
 <br/>
 
-**MySQL • MariaDB • SQL Server**  
+**MySQL • JAVA • .NET • Docker **  
 **Git • Postman • Eclipse • Visual Studio**
 
 </td>
